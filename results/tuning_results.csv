@@ -1,0 +1,5 @@
+Model,Best Params,Best CV Score
+Logistic Regression,"{'solver': 'lbfgs', 'penalty': 'l2', 'C': 100}",0.8654434440587633
+Decision Tree,"{'min_samples_split': 2, 'min_samples_leaf': 1, 'max_depth': 10, 'criterion': 'gini'}",0.9816970598416616
+Random Forest,"{'n_estimators': 100, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_depth': 10, 'bootstrap': False}",0.9878026000803508
+SVM,"{'kernel': 'poly', 'gamma': 'scale', 'C': 100}",0.9707026869177232
